@@ -3,6 +3,4 @@ A sure joint feature screening method for ultrahigh-dimensional Cox's model usin
 
 install.packages("devtools")
 
-library(devtools)
-
 devtools::install_github("iantsuising/coxnpgsjs")
