@@ -5,4 +5,4 @@ install.packages("devtools")
 
 library(devtools)
 
-install_github("iantsuising/coxnpgsjs")
+devtools::install_github("iantsuising/coxnpgsjs")
