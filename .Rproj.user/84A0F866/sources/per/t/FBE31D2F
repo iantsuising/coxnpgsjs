@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569993294432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3873883444",
+    "id" : "FBE31D2F",
+    "lastKnownWriteTime" : 1570001820,
+    "last_content_update" : 1570001820461,
+    "path" : "~/coxnpgsjs/src/test29.cpp",
+    "project_path" : "src/test29.cpp",
+    "properties" : {
+        "cursorPosition" : "184,50",
+        "scrollLine" : "176"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

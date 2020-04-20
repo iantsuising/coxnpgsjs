@@ -1,0 +1,35 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/yuefengsi/coxnpgsjs/src/test29.cpp",
+                "kind" : 6,
+                "line" : 9,
+                "name" : "Lik(arma::vec, arma::vec, arma::mat, arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@Lik#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/yuefengsi/coxnpgsjs/src/test29.cpp",
+                "kind" : 6,
+                "line" : 53,
+                "name" : "LikScorV(arma::vec, arma::vec, arma::mat, arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@LikScorV#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/yuefengsi/coxnpgsjs/src/test29.cpp",
+                "kind" : 6,
+                "line" : 147,
+                "name" : "SRMPLE(arma::vec, arma::vec, arma::mat, arma::vec, int, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@SRMPLE#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Mat>#d#S0_#I#d#I#"
+            }
+        ],
+        "file" : "/Users/yuefengsi/coxnpgsjs/src/test29.cpp",
+        "file_last_write" : 1570001820.000000
+    }
+]

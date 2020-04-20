@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
+import(glmnet)
+export(SRMPLE)
+useDynLib(coxnpgsjs, .registration = TRUE)
